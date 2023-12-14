@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Users/Daniel/OneDrive/Escritorio/Node"
+		},
+		{
+			"path": "../../../../Cursos/Angular/proy_1/mi-primera-app"
+		},
+		{
+			"path": "../../../../Cursos/Angular/clientes-app"
+		},
+		{
+			"path": "../../../../Cursos/PruebaACL/tareas"
+		},
+		{
+			"path": "../../../../Cursos/Verduleria-Angular.JS/verduleria"
+		},
+		{
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"jest.disabledWorkspaceFolders": [
+			"clientes-app",
+			"Node",
+			"mi-primera-app",
+			"proyecto-React"
+		]
+	}
+}
